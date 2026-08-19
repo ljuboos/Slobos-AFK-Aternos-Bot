@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "klosar1.aternos.me",
+  "ip":"klosar1.aternos.me"
     "port": 25399,
     "version": "",
     "try-creative": true
